@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G0L0I0T0C0H
 - 👀 I’m interested in programming games
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to To create your own games
+- 💞️ I’m looking to To create my own games
 - 📫 2111.glitch.2111@gmail.com
